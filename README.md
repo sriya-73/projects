@@ -1,2 +1,3 @@
-# projects
-💡 Personal &amp; academic projects in AI, ML, and DS
+# Projects
+
+This repo contains my academic and personal projects in Machine Learning, Data Science, and AI.
